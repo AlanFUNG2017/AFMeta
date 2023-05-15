@@ -1,3 +1,3 @@
-# A-F-TECH-HK
+# AFMetaExchange
 
 This is for tutorial purpose.
